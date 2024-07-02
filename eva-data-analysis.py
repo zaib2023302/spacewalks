@@ -1,4 +1,5 @@
 # https://data.nasa.gov/resource/eva.json
+# imp
 data_f = open('C:/Users/zun1g23/Downloads/astronaut-data-analysis-not-so-good-main/astronaut-data-analysis-not-so-good-main/data.json', 'r')
 data_t = open('C:/Users/zun1g23/Downloads/astronaut-data-analysis-not-so-good-main/astronaut-data-analysis-not-so-good-main/data.csv','w')
 g_file = 'myplot.png'
